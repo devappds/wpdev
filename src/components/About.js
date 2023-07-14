@@ -13,7 +13,7 @@ export class About extends Component {
 
     <div class="head_title">
 
-    <div class="sections-title"><h2>about us</h2></div>
+    <div class="sections-title"><h2>about us11</h2></div>
 
       <div class="animated_circles"> </div>
 
