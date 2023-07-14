@@ -29,7 +29,7 @@ export class About extends Component {
 
             <div class="tp-thumb-overlay"></div>
 
-            <img src="../images/ab11.png" alt=""></img></div>
+            <img src="images/ab11.png" alt=""></img></div>
 
           <div class="about__thumb-text">
 
