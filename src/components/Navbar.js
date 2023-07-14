@@ -13,7 +13,7 @@ export class Navbar extends Component {
   <div className="container">
     <div className="mainlogo wow bounceInUp"> <a className="navbar-brand" href="#">
         
-    <img src='../images/logo-2.png' alt='Logo' />
+    <img src='images/logo-2.png' alt='Logo' />
        </a>
 </div>
    
